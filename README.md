@@ -62,8 +62,8 @@ The robot brushed away the dust and found a small panel embedded in the ground. 
 
 ## 👤 Author
 
-- Name: *[Your Name Here]*
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Name: *Sarah Shamshad*
+- GitHub: [https://github.com/sarah2775](https://github.com/sarah2775)
 
 ---
 
